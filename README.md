@@ -32,6 +32,7 @@ Hello there! 👋 I'm a dedicated Computer Science Engineering student at GITAM 
 <img align="left" alt="figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="ai" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+<img align="left" alt="ai" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
  
 <details>
 <summary><h3>👨‍💻 Harshini's Coding Journey</h3></summary>
